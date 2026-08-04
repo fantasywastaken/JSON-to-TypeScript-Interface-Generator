@@ -1,1 +1,0 @@
-Convert JSON to TypeScript interfaces with nested types, arrays, unions, and optional fields. Zero-dependency Go CLI, works with stdin or files.
